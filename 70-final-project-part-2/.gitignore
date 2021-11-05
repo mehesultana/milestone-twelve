@@ -10,7 +10,6 @@
 
 # production
 /build
-/src/Pages/Login/Firebase
 
 # misc
 .DS_Store
